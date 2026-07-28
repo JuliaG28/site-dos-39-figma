@@ -104,6 +104,15 @@ html, body {
   border-radius: 50%;
 }
 
+.hero__video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  background: transparent;
+}
+
 .hero__rock {
   position: absolute;
   left: -4%;
